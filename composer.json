@@ -6,6 +6,9 @@
     "type": "project",
     "require": {
         "php": "^7.2.5",
+        "zircote/swagger-php": "3.*",
+        "darkaonline/swagger-lume": "7.*",
+        "flipbox/lumen-generator": "^6.0",
         "laravel/lumen-framework": "^7.0"
     },
     "require-dev": {
